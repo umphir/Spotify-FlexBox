@@ -1,0 +1,122 @@
+body{
+    margin:0;
+    width: 100vw;
+    height: 100vh;
+    background-color:black;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.logo1{
+    width: 200px;
+    margin-left: -330px;
+}
+.logo2{
+    width: 200px;
+    margin-top: 5%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    color: grey;
+    margin-right: -20%;
+}
+.perfil{
+    width: 80px;
+}
+
+.nav ul{
+    display: flex;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+
+.conteudo{
+    background-color:#9EF1e7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+}
+.textos{
+    color: black;
+}
+
+
+.rodape{
+   
+    background-color: black;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-items: baseline;
+}
+.empresa{
+    display: flex;
+    flex-direction: column;
+}
+.comunidades{
+    display: flex;
+    flex-direction: column;
+}
+.linkuteis{
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    background-color: black;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 100px;
+}
+.letraBaixo{
+    text-decoration: none;
+    color: grey;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.brasil{
+    color: gray;
+    background-color: black;
+    
+}
+.voltar{
+color:black ;
+}
+.joao{
+    color: grey;
+    
+}
+
+.paulo{
+color: grey;
+}
+
+.bruna{
+color: grey;
+}
+
+.alemanha{
+    margin-left: 58%;
+}
+.globo{
+    width: 20px;
+}
